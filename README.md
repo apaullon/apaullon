@@ -1,24 +1,13 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Pavel </h1>
+    <h1>Ghb </h1>
     <h3>Analyst from Tomsk, Russia</h3>
 </div>
 
-<div id="socials" align="center">
-  <a href="[telegram-url](https://t.me/apaullon09)">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
+📁 Portfolio:
+[Data analytics]()
+[System analytics]()
 
-### About me
-
-- 📄 Know about my experiences [CV](cv-link)
-- 🌱 I’m currently learning **SQL, BI, A/B Testing**
-- 📫 Reach me by [Telegram](https://t.me/apaullon09), [Email](mailto:potapovpaul09@gmail.com)
-- 🌍 I speak English (fluent), French (B2)
-
----
-
-### Tools and technologies
+### Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="js" width="40" height="40"/>&nbsp;
@@ -34,3 +23,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="sql" width="40" height="40"/>&nbsp;
 
+### About me
+
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [Telegram](https://t.me/apaullon09), [Email](mailto:potapovpaul09@gmail.com)
+  🌱 I’m currently learning **SQL, BI, A/B Testing**
+- 🌍 I speak English (fluent) and French (B2)
+- 💚 I'm fond of ecology. I practice yoga and meditation.
